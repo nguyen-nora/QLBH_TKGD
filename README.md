@@ -1,17 +1,23 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Dự án của tôi
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Giao diện Web quản lý bán hàng - Dành cho môn Thiết kế giao diện
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Lý do thực hiện:
+* Tạo trải nghiệm người dùng tốt
+* Tăng hiệu quả hoạt động
+* Thúc đẩy doanh số bán hàng :smile:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Tất nhiên, không có mẫu thiết kế nào phù hợp với tất cả các dự án vì nhu cầu của bạn có thể khác nhau. Vì vậy, tôi sẽ bổ sung thêm nhiều mẫu hơn trong tương lai gần. Bạn cũng có thể đề xuất thay đổi bằng cách fork kho lưu trữ này và tạo pull request hoặc mở issue. Cảm ơn tất cả những người đã đóng góp để mở rộng mẫu này!
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Use the `BLANK_README.md` to get started.
+### Tài nguyên
+
+* [![Angular][Angular.io]][Angular-url]
+* [![PHP][PHP.net]][PHP-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
