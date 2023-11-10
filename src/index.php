@@ -22,7 +22,7 @@
       <div class="col-sm-8 col-md-6 col-xl-4">
         <!-- jQuery Validation functionality is initialized with .js-validation-signin class in js/pages/op_auth_signin.min.js which was auto compiled from _js/pages/op_auth_signin.js -->
         <!-- For more examples you can check out https://github.com/jzaefferer/jquery-validation -->
-        <form class="js-validation-signin" action="be_pages_auth_all.php" method="POST">
+        <form class="js-validation-signin" action="dashboard.php" method="POST">
           <div class="form-floating mb-4">
             <input type="text" class="form-control" id="login-username" name="login-username" placeholder="Enter your username">
             <label class="form-label" for="login-username">Username</label>
